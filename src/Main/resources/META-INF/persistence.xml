@@ -24,7 +24,7 @@
             <property name="jakarta.persistence.jdbc.url"
                       value="jdbc:postgresql://localhost:5433/health_fitness_club"/>
             <property name="jakarta.persistence.jdbc.user" value="postgres"/>
-            <property name="jakarta.persistence.jdbc.password" value="sharkGym8888"/>
+            <property name="jakarta.persistence.jdbc.password" value="XXXXXXXX"/>
             <property name="jakarta.persistence.jdbc.driver"
                       value="org.postgresql.Driver"/>
 
